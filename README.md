@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my cheat loader<br><br>🧠 I’m currently learning Assembler, Spring and Reverse Engineering<br><br>📫 How to reach me yatahaki01@gmail.com
+🔭 I’m currently working on my cheat loader<br><br>🧠 I’m currently learning Assembler and Reverse Engineering<br><br>📫 How to reach me yatahaki01@gmail.com
 
 
 # 💻 Tech Stack:
